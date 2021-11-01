@@ -1,0 +1,24 @@
+{
+  "name": "githubgyakorlas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nagy Gergely",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gergely20/PracticeMonday.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Gergely20/PracticeMonday/issues"
+  },
+  "homepage": "https://github.com/Gergely20/PracticeMonday#readme",
+  "description": ""
+}
